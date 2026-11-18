@@ -107,7 +107,7 @@ mysql -u root -p < sql/01_schema_basic.sql
 ---
 
 ## GitHub Repository
-- **Project Link:** https://github.com/YOUR-USERNAME/fast-food-billing-system
+- **Project Link:** https://github.com/KRISHNASTWT/fast-food-billing-system
 
 ---
 
