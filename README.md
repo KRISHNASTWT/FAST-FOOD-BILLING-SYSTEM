@@ -15,7 +15,7 @@
 
 ---
 
-## Abstract (100–120 words)
+## Abstract 
 Small fast food outlets still prepare bills by hand, which causes calculation, price and GST errors, long queues and no reliable sales record. This project applies software engineering practices to a Fast Food Billing System (FFBS), a point-of-sale application for order entry, automatic billing with GST and discount, multi-mode payment (cash, card, UPI) and sales reports. The system was developed through the SDLC: problem statement, IEEE-830 SRS, DFD, ER, UML diagrams, a Java implementation of the billing core, JUnit unit and integration testing, Function Point estimation and PERT/Gantt scheduling. All 15 test cases pass. Estimated size is 113.36 FP (11.34 person-months) and the critical path is 21 weeks.
 
 ---
