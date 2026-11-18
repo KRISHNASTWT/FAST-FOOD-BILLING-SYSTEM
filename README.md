@@ -111,10 +111,6 @@ mysql -u root -p < sql/01_schema_basic.sql
 
 ---
 
-## QR Code (Scanner for GitHub)
-Generate a QR code of the project link above (Chrome → open repo → ⋮ → *Share* → *Create QR code*) and insert it in the submission document.
-
----
 
 ## Repository Structure
 ```
